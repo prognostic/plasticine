@@ -54,8 +54,8 @@ hi Special        ctermfg=120 ctermbg=NONE cterm=NONE
 hi LineNr         ctermfg=109 ctermbg=NONE cterm=NONE
 hi StatusLine     ctermfg=109 ctermbg=1 cterm=bold
 hi Label          ctermfg=220 ctermbg=NONE cterm=bold
-hi PMenuSel       ctermfg=109 ctermbg=1 cterm=NONE
-hi Search         ctermfg=109 ctermbg=1 cterm=NONE
+hi PMenuSel       ctermfg=109 ctermbg=1   cterm=NONE
+hi Search         ctermfg=66  ctermbg=194 cterm=NONE
 hi Delimiter      ctermfg=220 ctermbg=NONE cterm=NONE
 hi Statement      ctermfg=229 ctermbg=NONE cterm=bold
 hi SpellRare      ctermfg=189 ctermbg=235 cterm=underline
@@ -65,7 +65,7 @@ hi Float          ctermfg=195 ctermbg=NONE cterm=NONE
 hi Number         ctermfg=195 ctermbg=NONE cterm=NONE
 hi Boolean        ctermfg=195 ctermbg=NONE cterm=NONE
 hi Operator       ctermfg=220 ctermbg=NONE cterm=bold
-hi CursorLine     ctermfg=NONE ctermbg=236 cterm=NONE
+hi CursorLine     ctermfg=NONE ctermbg=109 cterm=NONE
 hi TabLineFill    ctermfg=109 ctermbg=66 cterm=bold
 hi WarningMsg     ctermfg=195 ctermbg=88 cterm=NONE
 hi VisualNOS      ctermfg=109 ctermbg=189 cterm=underline

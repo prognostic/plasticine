@@ -96,7 +96,7 @@ hi PMenuThumb     ctermfg=NONE ctermbg=248 cterm=NONE
 hi MatchParen     ctermfg=220 ctermbg=NONE cterm=bold
 hi Repeat         ctermfg=220 ctermbg=NONE cterm=bold
 hi SpellBad       ctermfg=189 ctermbg=235 cterm=underline
-hi Directory      ctermfg=111 ctermbg=NONE cterm=bold
+hi Directory      ctermfg=116 ctermbg=NONE cterm=bold
 hi Structure      ctermfg=111 ctermbg=NONE cterm=bold
 hi Macro          ctermfg=220 ctermbg=NONE cterm=NONE
 hi Underlined     ctermfg=189 ctermbg=235 cterm=underline

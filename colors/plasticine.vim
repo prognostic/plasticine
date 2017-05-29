@@ -1,6 +1,6 @@
 " Vim color file
 " Maintainer: github.com/prognostic
-" Last Change: 2017/07/28
+" Last Change: 2017/07/29
 " version: 0.0.4
 " License: The MIT License (MIT)
 
@@ -15,20 +15,7 @@ endif
 set t_Co=256
 let g:colors_name = "plasticine"
 
-"hi CTagsMember -- no settings --
-"hi CTagsGlobalConstant -- no settings --
-"hi Ignore -- no settings --
-hi Normal         ctermfg=15 ctermbg=66 cterm=NONE
-"hi CTagsImport -- no settings --
-"hi CTagsGlobalVariable -- no settings --
-"hi EnumerationValue -- no settings --
-"hi Union -- no settings --
-"hi Question -- no settings --
-"hi EnumerationName -- no settings --
-"hi DefinedName -- no settings --
-"hi LocalVariable -- no settings --
-"hi CTagsClass -- no settings --
-"hi clear -- no settings --
+hi Normal         ctermfg=15   ctermbg=66   cterm=NONE
 hi IncSearch      ctermfg=109  ctermbg=1    cterm=NONE
 hi WildMenu       ctermfg=NONE ctermbg=248  cterm=NONE
 hi SignColumn     ctermfg=109  ctermbg=60   cterm=NONE
@@ -64,7 +51,7 @@ hi Character      ctermfg=195  ctermbg=NONE cterm=NONE
 hi Float          ctermfg=195  ctermbg=NONE cterm=NONE
 hi Number         ctermfg=195  ctermbg=NONE cterm=NONE
 hi Boolean        ctermfg=195  ctermbg=NONE cterm=NONE
-hi Operator       ctermfg=220  ctermbg=NONE cterm=bold
+hi Operator       ctermfg=152  ctermbg=NONE cterm=bold
 hi CursorLine     ctermfg=NONE ctermbg=NONE cterm=NONE
 hi TabLineFill    ctermfg=109  ctermbg=66   cterm=bold
 hi WarningMsg     ctermfg=195  ctermbg=88   cterm=NONE
@@ -72,8 +59,8 @@ hi VisualNOS      ctermfg=109  ctermbg=189  cterm=underline
 hi DiffDelete     ctermfg=NONE ctermbg=235  cterm=NONE
 hi ModeMsg        ctermfg=15   ctermbg=109  cterm=bold
 hi CursorColumn   ctermfg=NONE ctermbg=236  cterm=NONE
-hi Define         ctermfg=220  ctermbg=NONE cterm=NONE
-hi Function       ctermfg=111  ctermbg=NONE cterm=bold
+hi Define         ctermfg=151  ctermbg=NONE cterm=NONE
+hi Function       ctermfg=115  ctermbg=NONE cterm=bold
 hi FoldColumn     ctermfg=109  ctermbg=248  cterm=NONE
 hi PreProc        ctermfg=229  ctermbg=NONE cterm=NONE
 hi Visual         ctermfg=109  ctermbg=189  cterm=NONE
@@ -81,7 +68,7 @@ hi MoreMsg        ctermfg=220  ctermbg=NONE cterm=bold
 hi SpellCap       ctermfg=189  ctermbg=235  cterm=underline
 hi VertSplit      ctermfg=109  ctermbg=66   cterm=bold
 hi Exception      ctermfg=220  ctermbg=NONE cterm=bold
-hi Keyword        ctermfg=220  ctermbg=NONE cterm=bold
+hi Keyword        ctermfg=116  ctermbg=NONE cterm=bold
 hi Type           ctermfg=121  ctermbg=NONE cterm=bold
 hi DiffChange     ctermfg=NONE ctermbg=52   cterm=NONE
 hi Cursor         ctermfg=109  ctermbg=15   cterm=NONE
@@ -90,10 +77,10 @@ hi Error          ctermfg=195  ctermbg=88   cterm=NONE
 hi PMenu          ctermfg=109  ctermbg=66   cterm=NONE
 hi SpecialKey     ctermfg=195  ctermbg=NONE cterm=NONE
 hi Constant       ctermfg=195  ctermbg=NONE cterm=NONE
-hi Tag            ctermfg=220  ctermbg=NONE cterm=NONE
+hi Tag            ctermfg=116  ctermbg=NONE cterm=NONE
 hi String         ctermfg=195  ctermbg=NONE cterm=NONE
 hi PMenuThumb     ctermfg=NONE ctermbg=248  cterm=NONE
-hi MatchParen     ctermfg=220  ctermbg=NONE cterm=bold
+hi MatchParen     ctermfg=16   ctermbg=15   cterm=bold
 hi Repeat         ctermfg=220  ctermbg=NONE cterm=bold
 hi SpellBad       ctermfg=189  ctermbg=235  cterm=underline
 hi Directory      ctermfg=116  ctermbg=NONE cterm=bold
@@ -104,3 +91,19 @@ hi DiffAdd        ctermfg=NONE ctermbg=236  cterm=NONE
 hi TabLine        ctermfg=109  ctermbg=66   cterm=bold
 hi cursorim       ctermfg=109  ctermbg=60   cterm=NONE
 hi EndOfBuffer    ctermfg=109  ctermbg=NONE cterm=NONE
+
+"hi CTagsMember -- no settings --
+"hi CTagsGlobalConstant -- no settings --
+"hi Ignore -- no settings --
+
+"hi CTagsImport -- no settings --
+"hi CTagsGlobalVariable -- no settings --
+"hi EnumerationValue -- no settings --
+"hi Union -- no settings --
+"hi Question -- no settings --
+"hi EnumerationName -- no settings --
+"hi DefinedName -- no settings --
+"hi LocalVariable -- no settings --
+"hi CTagsClass -- no settings --
+"hi clear -- no settings --
+

@@ -91,6 +91,7 @@ hi DiffAdd        ctermfg=NONE ctermbg=236  cterm=NONE
 hi TabLine        ctermfg=109  ctermbg=66   cterm=bold
 hi cursorim       ctermfg=109  ctermbg=60   cterm=NONE
 hi EndOfBuffer    ctermfg=109  ctermbg=NONE cterm=NONE
+hi CursorLineNR   ctermfg=109  ctermbg=NONE cterm=bold
 
 "hi CTagsMember -- no settings --
 "hi CTagsGlobalConstant -- no settings --

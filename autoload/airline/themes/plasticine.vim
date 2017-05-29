@@ -1,6 +1,6 @@
 " Normal mode
-let s:N1 = [ '#ffffff' , '#5f00af' , 15 , 150 ]
-let s:N2 = [ '#ffffff' , '#875fd7' , 15 , 151 ]
+let s:N1 = [ '#ffffff' , '#5f00af' , 15 , 30  ]
+let s:N2 = [ '#ffffff' , '#875fd7' , 15 , 73  ]
 let s:N3 = [ '#ffffff' , '#121212' , 15 , 109 ]
 
 " Insert mode

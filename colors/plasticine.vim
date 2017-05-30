@@ -59,7 +59,7 @@ hi VisualNOS      ctermfg=109  ctermbg=189  cterm=underline
 hi DiffDelete     ctermfg=NONE ctermbg=235  cterm=NONE
 hi ModeMsg        ctermfg=15   ctermbg=109  cterm=bold
 hi CursorColumn   ctermfg=NONE ctermbg=236  cterm=NONE
-hi Define         ctermfg=151  ctermbg=NONE cterm=NONE
+hi Define         ctermfg=122  ctermbg=NONE cterm=NONE
 hi Function       ctermfg=115  ctermbg=NONE cterm=bold
 hi FoldColumn     ctermfg=109  ctermbg=248  cterm=NONE
 hi PreProc        ctermfg=229  ctermbg=NONE cterm=NONE
@@ -77,8 +77,8 @@ hi Error          ctermfg=195  ctermbg=88   cterm=NONE
 hi PMenu          ctermfg=109  ctermbg=66   cterm=NONE
 hi SpecialKey     ctermfg=195  ctermbg=NONE cterm=NONE
 hi Constant       ctermfg=195  ctermbg=NONE cterm=NONE
-hi Tag            ctermfg=116  ctermbg=NONE cterm=NONE
-hi String         ctermfg=195  ctermbg=NONE cterm=NONE
+hi Tag            ctermfg=112  ctermbg=NONE cterm=NONE
+hi String         ctermfg=151  ctermbg=NONE cterm=NONE
 hi PMenuThumb     ctermfg=NONE ctermbg=248  cterm=NONE
 hi MatchParen     ctermfg=16   ctermbg=15   cterm=bold
 hi Repeat         ctermfg=220  ctermbg=NONE cterm=bold

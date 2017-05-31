@@ -16,6 +16,22 @@ set t_Co=256
 let g:colors_name = "plasticine"
 
 hi Normal         ctermfg=15   ctermbg=66   cterm=NONE
+
+hi Comment        ctermfg=109  ctermbg=NONE cterm=NONE
+
+hi Character      ctermfg=195  ctermbg=NONE cterm=NONE
+hi Float          ctermfg=195  ctermbg=NONE cterm=NONE
+hi Number         ctermfg=123  ctermbg=NONE cterm=NONE
+hi Boolean        ctermfg=195  ctermbg=NONE cterm=NONE
+hi String         ctermfg=151  ctermbg=NONE cterm=NONE
+hi Constant       ctermfg=195  ctermbg=NONE cterm=NONE
+
+hi Identifier     ctermfg=229  ctermbg=NONE cterm=NONE
+hi Function       ctermfg=15   ctermbg=NONE cterm=bold
+
+hi Repeat         ctermfg=115  ctermbg=NONE cterm=bold
+hi Conditional    ctermfg=115  ctermbg=NONE cterm=bold
+
 hi IncSearch      ctermfg=109  ctermbg=1    cterm=NONE
 hi WildMenu       ctermfg=NONE ctermbg=248  cterm=NONE
 hi SignColumn     ctermfg=109  ctermbg=60   cterm=NONE
@@ -24,7 +40,7 @@ hi Typedef        ctermfg=111  ctermbg=NONE cterm=bold
 hi Title          ctermfg=189  ctermbg=235  cterm=bold
 hi Folded         ctermfg=109  ctermbg=248  cterm=NONE
 hi PreCondit      ctermfg=220  ctermbg=NONE cterm=NONE
-hi Include        ctermfg=220  ctermbg=NONE cterm=NONE
+hi Include        ctermfg=15   ctermbg=NONE cterm=NONE
 hi TabLineSel     ctermfg=109  ctermbg=1    cterm=bold
 hi StatusLineNC   ctermfg=109  ctermbg=66   cterm=bold
 hi NonText        ctermfg=195  ctermbg=NONE cterm=NONE
@@ -32,9 +48,7 @@ hi DiffText       ctermfg=NONE ctermbg=52   cterm=NONE
 hi ErrorMsg       ctermfg=195  ctermbg=88   cterm=NONE
 hi Debug          ctermfg=220  ctermbg=NONE cterm=NONE
 hi PMenuSbar      ctermfg=NONE ctermbg=102  cterm=NONE
-hi Identifier     ctermfg=229  ctermbg=NONE cterm=NONE
 hi SpecialChar    ctermfg=220  ctermbg=NONE cterm=NONE
-hi Conditional    ctermfg=220  ctermbg=NONE cterm=bold
 hi StorageClass   ctermfg=111  ctermbg=NONE cterm=bold
 hi Todo           ctermfg=189  ctermbg=1    cterm=NONE
 hi Special        ctermfg=120  ctermbg=NONE cterm=NONE
@@ -43,14 +57,9 @@ hi StatusLine     ctermfg=109  ctermbg=1    cterm=bold
 hi Label          ctermfg=220  ctermbg=NONE cterm=bold
 hi PMenuSel       ctermfg=109  ctermbg=1    cterm=NONE
 hi Search         ctermfg=66   ctermbg=194  cterm=NONE
-hi Delimiter      ctermfg=220  ctermbg=NONE cterm=NONE
+hi Delimiter      ctermfg=15   ctermbg=NONE cterm=NONE
 hi Statement      ctermfg=229  ctermbg=NONE cterm=bold
 hi SpellRare      ctermfg=189  ctermbg=235  cterm=underline
-hi Comment        ctermfg=109  ctermbg=NONE cterm=NONE
-hi Character      ctermfg=195  ctermbg=NONE cterm=NONE
-hi Float          ctermfg=195  ctermbg=NONE cterm=NONE
-hi Number         ctermfg=195  ctermbg=NONE cterm=NONE
-hi Boolean        ctermfg=195  ctermbg=NONE cterm=NONE
 hi Operator       ctermfg=152  ctermbg=NONE cterm=bold
 hi CursorLine     ctermfg=NONE ctermbg=NONE cterm=NONE
 hi TabLineFill    ctermfg=109  ctermbg=66   cterm=bold
@@ -59,8 +68,7 @@ hi VisualNOS      ctermfg=109  ctermbg=189  cterm=underline
 hi DiffDelete     ctermfg=NONE ctermbg=235  cterm=NONE
 hi ModeMsg        ctermfg=15   ctermbg=109  cterm=bold
 hi CursorColumn   ctermfg=NONE ctermbg=236  cterm=NONE
-hi Define         ctermfg=122  ctermbg=NONE cterm=NONE
-hi Function       ctermfg=115  ctermbg=NONE cterm=bold
+hi Define         ctermfg=115  ctermbg=NONE cterm=NONE
 hi FoldColumn     ctermfg=109  ctermbg=248  cterm=NONE
 hi PreProc        ctermfg=229  ctermbg=NONE cterm=NONE
 hi Visual         ctermfg=109  ctermbg=189  cterm=NONE
@@ -76,12 +84,9 @@ hi SpellLocal     ctermfg=189  ctermbg=235  cterm=underline
 hi Error          ctermfg=195  ctermbg=88   cterm=NONE
 hi PMenu          ctermfg=109  ctermbg=66   cterm=NONE
 hi SpecialKey     ctermfg=195  ctermbg=NONE cterm=NONE
-hi Constant       ctermfg=195  ctermbg=NONE cterm=NONE
 hi Tag            ctermfg=112  ctermbg=NONE cterm=NONE
-hi String         ctermfg=151  ctermbg=NONE cterm=NONE
 hi PMenuThumb     ctermfg=NONE ctermbg=248  cterm=NONE
 hi MatchParen     ctermfg=16   ctermbg=15   cterm=bold
-hi Repeat         ctermfg=220  ctermbg=NONE cterm=bold
 hi SpellBad       ctermfg=189  ctermbg=235  cterm=underline
 hi Directory      ctermfg=116  ctermbg=NONE cterm=bold
 hi Structure      ctermfg=111  ctermbg=NONE cterm=bold

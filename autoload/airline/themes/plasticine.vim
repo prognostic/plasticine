@@ -4,14 +4,14 @@ let s:N2 = [ '#ffffff' , '#875fd7' , 15 , 73  ]
 let s:N3 = [ '#ffffff' , '#121212' , 15 , 109 ]
 
 " Insert mode
-let s:I1 = [ '#ffffff' , '#005fff' , 15 , 153 ]
-let s:I2 = [ '#ffffff' , '#00afff' , 15 , 152 ]
+let s:I1 = [ '#ffffff' , '#005fff' , 15 , 31  ]
+let s:I2 = [ '#ffffff' , '#00afff' , 15 , 74  ]
 let s:I3 = [ '#ffffff' , '#121212' , 15 , 109 ]
 
 " Visual mode
-let s:V1 = [ '#121212' , '#ff5f00' , 109 , 187 ]
-let s:V2 = [ '#121212' , '#ffaf00' , 109 , 188 ]
-let s:V3 = [ '#ffffff' , '#121212' , 15  , 109 ]
+let s:V1 = [ '#121212' , '#ff5f00' , 15 , 137 ]
+let s:V2 = [ '#121212' , '#ffaf00' , 15 , 138 ]
+let s:V3 = [ '#ffffff' , '#121212' , 15 , 109 ]
 
 " Replace mode
 let s:R1 = [ '#ffffff' , '#ff0000' , 15 , 196 ]

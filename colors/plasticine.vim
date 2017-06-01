@@ -1,7 +1,7 @@
 " Vim color file
 " Maintainer: github.com/prognostic
-" Last Change: 2017/07/29
-" version: 0.0.4
+" Last Change: 2017/06/01
+" version: 0.0.5
 " License: The MIT License (MIT)
 
 set background=light

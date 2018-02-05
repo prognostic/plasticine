@@ -12,7 +12,7 @@ AirLine off
 
 ## Getting started
 
-### Installation
+### Installation and activation
 
 #### Via plugin/runtimepath manager
 I recommend to use [`vim-plug`](https://github.com/junegunn/vim-plug).  
@@ -20,8 +20,10 @@ Add Plasticine Vim to your `.vimrc`
 ```vim
 Plug 'prognostic/plasticine'
 ```
-and install via `:PlugInstall`.
+and install via `:PlugInstall` (from the vim command line)
 
+To select the plasticine theme
+:colorscheme plasticine (from the vim command line)
 
 ### License
 

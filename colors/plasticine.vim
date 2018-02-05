@@ -1,7 +1,7 @@
 " Vim color file
 " Maintainer: github.com/prognostic
 " Last Change: 2018/02/05
-" version: 0.0.6
+" version: 0.0.7
 " License: The MIT License (MIT)
 
 set background=light
@@ -52,7 +52,7 @@ hi Debug          ctermfg=220  ctermbg=NONE cterm=NONE
 hi PMenuSbar      ctermfg=NONE ctermbg=102  cterm=NONE
 hi SpecialChar    ctermfg=220  ctermbg=NONE cterm=NONE
 hi StorageClass   ctermfg=111  ctermbg=NONE cterm=bold
-hi Todo           ctermfg=189  ctermbg=1    cterm=NONE
+hi Todo           ctermfg=229  ctermbg=109  cterm=bold
 hi Special        ctermfg=120  ctermbg=NONE cterm=NONE
 hi LineNr         ctermfg=109  ctermbg=NONE cterm=NONE
 hi StatusLine     ctermfg=241  ctermbg=109  cterm=bold

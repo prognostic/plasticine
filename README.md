@@ -6,7 +6,10 @@ I was inspired by Nord's theme (https://github.com/arcticicestudio/nord-vim), bu
 
 
 ![alt text](https://github.com/prognostic/prognostic/blob/master/screenshot/screenshot.png)
+With AirLine
 
+![alt text](https://github.com/prognostic/prognostic/blob/master/screenshot/screenshot2.png)
+AirLine off
 
 ## Getting started
 

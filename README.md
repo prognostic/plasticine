@@ -1,12 +1,11 @@
-#### ONLY FOR TERMINAL USERS!
+### ONLY FOR TERMINAL USERS!
 
-### Among the hundreds of themes for vim, I did not find one that I like. Perhaps I will make one more.
 Plasticine because the code is like plasticine, an infinitely pliable shape.
 I was inspired by Nord's theme (https://github.com/arcticicestudio/nord-vim), but I prefer the color of sea foam more.
 
 
 ![alt text](https://github.com/prognostic/prognostic/blob/master/screenshot/screenshot.png)
-With AirLine
+With AirLine, NERDTree and Tagbar
 
 ![alt text](https://github.com/prognostic/prognostic/blob/master/screenshot/screenshot2.png)
 AirLine off

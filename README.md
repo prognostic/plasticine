@@ -1,4 +1,5 @@
-### ONLY FOR TERMINAL USERS! >^.^<
+>^.^<
+### ONLY FOR TERMINAL USERS!
 
 Plasticine because the code is like plasticine, an infinitely pliable shape.
 I was inspired by Nord's theme (https://github.com/arcticicestudio/nord-vim), but I prefer the color of sea foam more.
